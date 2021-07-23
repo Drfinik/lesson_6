@@ -1,0 +1,25 @@
+[{
+        "id": "1",
+        "title": "Jacket",
+        "price": 250,
+        "img": "/images/card1.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Suit",
+        "price": 350,
+        "img": "/images/card2.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Shorts",
+        "price": 50,
+        "img": "/images/card3.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Jeans",
+        "price": 150,
+        "img": "/images/card4.jpg"
+    }
+]
